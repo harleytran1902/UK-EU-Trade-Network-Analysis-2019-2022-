@@ -1,6 +1,6 @@
 # UK - EU Trade Network Analysis (2019 - 2022)
 Network analysis of UK-EU trade relationships using Python, Tableau, and Gephi
-![Chart](Visualization Poster pdf.pdf)
+![Chart](Visualization Poster png(1).png)
 
 ## 1. Project Summary
 
