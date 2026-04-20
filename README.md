@@ -66,8 +66,8 @@ This project aims to answer:
 - The project demonstrates how combining data cleaning, network analysis, and visualization can turn complex economic data - into clear insights.
 
 ## 7. Strategic Implications (Business recommendations)
-+ Companies should diversify supply chains beyond traditional hubs like the UK
-+ Regional trade partnerships may become more critical for resilience
-+ Market entry strategies should consider emerging regional clusters rather than pan-European assumptions
++ Companies should diversify supply chains beyond traditional hubs like the UK.
++ Regional trade partnerships may become more critical for resilience.
++ Market entry strategies should consider emerging regional clusters rather than pan-European assumptions.
 
 
