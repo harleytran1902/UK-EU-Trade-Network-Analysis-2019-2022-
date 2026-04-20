@@ -10,13 +10,7 @@ In this project, network analysis and data visualization was used to explore how
 
 The goal is not only to measure trade size, but to understand how countries are connected, which countries act as hubs, and how regional trade communities formed over time.
 
-The project demonstrates skills in:
-- Data cleaning and transformation
-- Network analysis
-- Graph theory metrics
-- Data visualization
-- Economic data interpretation
-- Storytelling with data
+This analysis provides insights into how geopolitical shocks reshape trade dependencies and regional economic power structures'
 
 ## 2. Problem Statement
 Most trade analyses focus on total import/export values, but this approach does not capture:
@@ -25,9 +19,13 @@ Most trade analyses focus on total import/export values, but this approach does 
 - Emergence of regional trade clusters
 - Changes in strategic position after geopolitical events
 
-This project aims to :
-- **How did the structure of the UK–EU/EFTA trade network change between 2019 and 2022, and how did Brexit affect the UK's position in the network?**
+This project aims to answer:
+- _**How did the structure of the UK–EU/EFTA trade network change between 2019 and 2022, and how did Brexit affect the UK's position in the network?**_
 
+### **Who This Analysis Is For?**
++ Policy makers evaluating post-Brexit trade impact
++ Companies managing European supply chains
++ Strategy teams assessing regional market dependencies
 
 ## 3. Data
 <img width="676" alt="image" src="https://github.com/harleytran1902/UK-EU-Trade-Network-Analysis-2019-2022-/raw/91e3123db26dbcec1698a2509e7acda9a5602c4d/Screenshot_17-4-2026_14758_.jpeg">
@@ -57,14 +55,19 @@ This project aims to :
 ## 5. Results
 - The overall network remained highly connected between 2019 and 2022, meaning that trade relations did not collapse despite major global events.
 - However, the internal structure changed noticeably.
-- Regional clusters became stronger, especially among Nordic, Baltic, and Southern European countries, suggesting that trade became more regionalized after global disruptions.
+- Strengthening regional clusters suggest countries are reducing dependency on central trade hubs, especially among Nordic, Baltic, and Southern European countries, likely as a response to geopolitical uncertainty
 - Germany, Poland, France, and Italy remained the most central countries in the network, with balanced and widely distributed trade connections.
 - The UK remained an important node, but its centrality decreased slightly after Brexit. This suggests that the UK still trades with many partners, but plays a smaller role as a bridge between different parts of the European trade system.
 - Trade data also shows that the UK’s imports grew faster than exports during this period, leading to a widening trade deficit and reinforcing the idea that structural changes in the network were happening alongside economic changes.
-
 
 ## 6. Conclusion
 - This project shows that network analysis can reveal patterns that are not visible when looking at trade volume alone.
 - Even though the European trade system stayed connected, its structure shifted toward stronger regional clusters, and the UK’s influence in the network decreased slightly after Brexit.
 - The project demonstrates how combining data cleaning, network analysis, and visualization can turn complex economic data - into clear insights.
+
+## 7. Strategic Implications (Business recommendations)
++ Companies should diversify supply chains beyond traditional hubs like the UK
++ Regional trade partnerships may become more critical for resilience
++ Market entry strategies should consider emerging regional clusters rather than pan-European assumptions
+
 
