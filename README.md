@@ -45,7 +45,7 @@ This project aims to answer:
 
 
 ## 4. Method
-- I applied Social network analysis and visualization techniques were applied to  analyze the structure of the trade network.
+- Social network analysis and visualization techniques were applied to analyze the structure of the trade network.
 - Network graphs were built in Gephi using the ForceAtlas2 layout, where strongly connected countries appear closer together.
 - Several network metrics were used to measure influence and position inside the network, including degree, betweenness, closeness, eigenvector centrality, and modularity.
 - Additional visualizations were created using Tableau and Flourish to explore trade trends, major partners, and the UK’s trade deficit over time.
